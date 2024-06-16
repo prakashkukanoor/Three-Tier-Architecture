@@ -15,15 +15,15 @@ brew install tfenv
 
 - Install terraform
 ```sh
-brew install terraform ```
+brew install terraform
 
 - Install terragrunt env
 ```sh
-brew install tgenv ```
+brew install tgenv
 
 - Install terragrunt
 ```sh
-brew install terragrunt ```
+brew install terragrunt
 
 ## Cyber Wizard team aws infrastructure
 [View Architecture Diagram](docs/cyber-wizard/)
