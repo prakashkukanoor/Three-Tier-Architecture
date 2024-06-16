@@ -15,7 +15,7 @@ brew install tfenv
 
 - Install terraform
 ```sh
-brew install terraform
+brew install terraform ```
 
 - Install terragrunt env
 ```sh
