@@ -15,19 +15,9 @@ This github repo is to mainatin terrafor and terragrunt code to create AWS Cloud
 brew install tfenv
 ```
 
-- Install terraform
-```
-brew install terraform
-```
-
 - Install terragrunt env
 ```
 brew install tgenv
-```
-
-- Install terragrunt
-```
-brew install terragrunt
 ```
 
 ## CyberWizardInfra
