@@ -10,8 +10,9 @@ This github repo is to mainatin terrafor and terragrunt code to create AWS Cloud
 - Install Homebrew
 [Home Brew](https://brew.sh/)
 - Install terraform env
+```sh
 brew install tfenv
-- Install terraform\n
+- Install terraform
 ```sh
 brew install terraform
 - Install terragrunt env
