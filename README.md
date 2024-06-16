@@ -12,12 +12,15 @@ This github repo is to mainatin terrafor and terragrunt code to create AWS Cloud
 - Install terraform env
 ```sh
 brew install tfenv
+
 - Install terraform
 ```sh
 brew install terraform
+
 - Install terragrunt env
 ```sh
 brew install tgenv
+
 - Install terragrunt
 ```sh
 brew install terragrunt
