@@ -11,7 +11,7 @@ This github repo is to mainatin terrafor and terragrunt code to create AWS Cloud
 [Home Brew](https://brew.sh/)
 - Install terraform env
 brew install tfenv
-- Install terraform
+- Install terraform\n
 ```brew install terraform```
 - Install terragrunt env
 ```brew install tgenv```
@@ -20,3 +20,6 @@ brew install tfenv
 
 ## Cyber Wizard team aws infrastructure
 [View Architecture Diagram](docs/cyber-wizard/)
+
+```sh
+npm start
