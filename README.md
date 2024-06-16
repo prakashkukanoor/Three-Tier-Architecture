@@ -30,5 +30,5 @@ brew install terragrunt
 ```
 
 ## Cyber Wizard team aws infrastructure
-[View Architecture Diagram](docs/cyber-wizard/)
+![View Architecture Diagram](docs/cyber-wizard/Three-Tier-Architecture.svg)
 
