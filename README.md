@@ -28,6 +28,16 @@ tfenv use <Terraform Version>
 brew install tgenv
 ```
 
+- Install terragrunt
+```
+tgenv install <Terragrunt Version>
+```
+
+- Switch to terragrunt version
+```
+tgenv use <Terragrunt Version>
+```
+
 ## CyberWizardInfra
 ![View Architecture Diagram](docs/cyber-wizard/Three-Tier-Architecture.svg)
 
