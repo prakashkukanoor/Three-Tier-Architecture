@@ -5,7 +5,7 @@
 - [Cyber Wizard team aws infrastructure](#CyberWizardInfra)
 
 ## Introduction
-This github repo is to mainatin terrafor and terragrunt code to create AWS Cloud Infrastructure for campus pulse inc.
+This github repo is to mainatin terraform and terragrunt code to create AWS Cloud Infrastructure for campus pulse inc.
 
 ## Installation
 - Install Homebrew
