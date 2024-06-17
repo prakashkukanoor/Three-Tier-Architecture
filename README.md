@@ -14,9 +14,11 @@ This github repo is to mainatin terraform and terragrunt code to create AWS Clou
 ```
 brew install tfenv
 ```
+- Install terraform version
 ```
 tfenv install <Terraform Version>
 ```
+- Switch to terraform version
 ```
 tfenv use <Terraform Version>
 ```
