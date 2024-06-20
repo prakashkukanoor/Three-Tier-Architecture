@@ -8,6 +8,8 @@
 This github repo is to mainatin terraform and terragrunt code to create three tier architecture in AWS Cloud.
 
 ## Installation
+All the instructions below are performed in Mac os. 
+
 - Install Homebrew
 [Home Brew](https://brew.sh/)
 - Install terraform env
