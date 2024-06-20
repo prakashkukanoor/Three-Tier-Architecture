@@ -2,7 +2,7 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Cyber Wizard team aws infrastructure](#CyberWizardInfra)
+- [Three Tier Architecture](#ThreeTierArchitecture)
 
 ## Introduction
 This github repo is to mainatin terrafor and terragrunt code to create AWS Cloud Infrastructure for campus pulse inc.
@@ -20,6 +20,6 @@ brew install tfenv
 brew install tgenv
 ```
 
-## CyberWizardInfra
+## ThreeTierArchitecture
 ![View Architecture Diagram](docs/cyber-wizard/Three-Tier-Architecture.svg)
 
