@@ -5,7 +5,7 @@
 - [Three Tier Architecture](#ThreeTierArchitecture)
 
 ## Introduction
-This github repo is to mainatin terrafor and terragrunt code to create AWS Cloud Infrastructure for campus pulse inc.
+This github repo is to mainatin terraform and terragrunt code to create three tier architecture in AWS Cloud.
 
 ## Installation
 - Install Homebrew
